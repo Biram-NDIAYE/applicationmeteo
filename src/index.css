@@ -96,12 +96,4 @@ color:white;
 .app  {
  font-size: 700;
    }
-button {
-  width: 72px;
-  padding: 10px 0px;
-  margin-top: 25px;
-  font-size: 1.2rem;
-  color: white;
-  cursor: pointer;
-}
-}
+
