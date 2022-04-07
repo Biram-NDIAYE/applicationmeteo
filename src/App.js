@@ -26,7 +26,7 @@ function App() {
           onKeyPress={searchLocation}
           placeholder='Entrer le lieu'
           type="text" />
-             <button onClick={(e) => searchLocation(e)} type="submit">Search</button>
+             <button onClick={(e) => setLocation(event.target.value)} type="submit">Search</button>
       </div>
       <div className="container">
         <div className="top">
