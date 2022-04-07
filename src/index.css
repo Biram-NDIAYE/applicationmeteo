@@ -98,11 +98,11 @@ color:white;
    }
 button {
   background-color: white;
-  border-radius: 5px;
-  width: 72px;
+  border-radius: 10px;
+  width: 60px;
   padding: 10px 0px;
   margin-top: 25px;
   font-size: 1.2rem;
-  color: #f8f8f8;
+  color: black;
   cursor: pointer;
 }
