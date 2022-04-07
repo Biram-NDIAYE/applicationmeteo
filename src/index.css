@@ -97,7 +97,7 @@ color:white;
  font-size: 700;
    }
 button {
-
+  background-color: blue;
   width: 72px;
   padding: 10px 0px;
   border-top-right-radius: 8px;
@@ -106,4 +106,5 @@ button {
   font-size: 1.2rem;
   color: #f8f8f8;
   cursor: pointer;
+}
 }
